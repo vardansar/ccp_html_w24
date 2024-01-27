@@ -1,0 +1,27 @@
+body {
+    font-family:sans-serif;
+}
+
+
+h1 {
+    font-size: 3em;
+    margin:12px 0 24px 0;
+    font-weight: bold;
+}
+
+
+a {
+    color:blue;
+    text-decoration: underline;
+}
+
+nav {
+    background-color:lightgrey;
+    padding:24px;
+    display:inline-block;
+}
+
+nav ul li {
+    display:inline;
+    margin-right:10px;
+}
